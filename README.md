@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Adebisi Adeyemi
-I'm a passionate **Software Engineer** with **2 years of experience** in **.NET development**. I specialize in backend development with expertise in C# and .NET Core. I’m dedicated to continuous learning and enjoy contributing to open-source projects and mentoring others. I’m always looking for opportunities to apply my skills and grow within the tech community.
+A passionate **Software Engineer** with **2 years of experience** in **.NET development**. I specialize in backend development with expertise in C# and .NET Core. I’m dedicated to continuous learning and enjoy contributing to open-source projects and mentoring others. I’m always looking for opportunities to apply my skills and grow within the tech community.
 
 
 ## 💼 Experience
