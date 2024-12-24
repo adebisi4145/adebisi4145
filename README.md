@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm Adebisi Adeyemi
-A passionate **Software Engineer** with **2 years of experience** in **.NET development**. I specialize in backend development with expertise in C# and .NET Core. I’m dedicated to continuous learning and enjoy contributing to open-source projects and mentoring others. I’m always looking for opportunities to apply my skills and grow within the tech community.
+A passionate **Software Engineer** with **3 years of experience** in **.NET development**. I specialize in backend development with expertise in C# and .NET Core. I’m dedicated to continuous learning and enjoy contributing to open-source projects and mentoring others. I’m always looking for opportunities to apply my skills and grow within the tech community.
 
 
 ## 💼 Experience
-- **Software Engineer Instructor | Codelearnershub, Nigeria**  _July 2024 - Present_  
+- **Software Engineer Instructor | Codelearnershub, Nigeria**  _Jan 2024 - Present_  
   - Taught C# and .NET fundamentals to advanced topics, including OOP, ASP.NET, and database management, helping students build real-world projects.
   - Simplified technical concepts for beginners, enhancing communication skills and practical problem-solving abilities.
-- **Software Engineer Intern | Sysbeams, Nigeria**  _June 2022 - Aug 2024_  
+- **Software Engineer Intern | Sysbeams, Nigeria**  _June 2021 - Dec 2024_  
   - Developed and maintained scalable, high-performance .NET Core applications using C#, focusing on clean code practices and optimizing functionality with technologies like ASP.NET MVC and Web API. Contributed to backend development, including database integration with MySQL, SQL, and PostgreSQL, to ensure seamless data storage and retrieval.  
   - Collaborated within Agile teams to build applications, ensuring alignment with project standards and client requirements. Utilized GitHub for version control, managing pull requests, tracking issues, and participating in code reviews to maintain code quality and improve team collaboration.
 
