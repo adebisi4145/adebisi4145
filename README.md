@@ -15,16 +15,11 @@ A passionate **Software Engineer** with **3 years of experience** in **.NET deve
 - **Soft Skills:** Attention to Detail | Analytical Thinking | Effective Communication | Team Collaboration | Adaptability | Critical Thinking  | Problem-Solving    
 
 ## 💡  Volunteer Experience
-- **Software Developer Instructor | Tekisite, Nigeria**  _June 2022 - Aug 2024_   
-  - Taught coding and digital literacy to secondary school students, empowering them with the skills to explore tech careers.  
-  - Mentored youth from underserved backgrounds, fostering an interest in technology and promoting digital literacy to deter engagement in cybercrime.
-
-- **Software Developer Instructor | Dayspring Chapel, Nigeria**  _May 2023 - June 2023_
-  - Taught C# basics and .NET development, helping youth gain practical programming skills.  
-  - Developed engaging lesson plans that focused on core software engineering principles.
-
+- **Software Developer Instructor | Tekisite, Nigeria** 
+- **Software Developer Instructor | Dayspring Chapel, Nigeria**
+  
 ## 🎓 Education
-- **Bachelor of Science (B. Sc.) in Mathematics | Federal University of Agriculture, Abeokuta**   _2017 - 2023_
+- **Bachelor of Science (B. Sc.) in Mathematics | Federal University of Agriculture, Abeokuta** 
 
 ## 📜 Certifications
 - **Software Engineering | CodeLearnersHub, Nigeria**
