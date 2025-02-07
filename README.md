@@ -3,7 +3,7 @@ A passionate **Software Engineer** with **3 years of experience** in **.NET deve
 
 
 ## 💼 Experience
-- **Software Engineer Instructor | Codelearnershub, Nigeria**  _Jan 2024 - Present_  
+- **Software Engineer Instructor | Codelearnershub, Nigeria**  _Aug 2024 - Present_  
   - Taught C# and .NET fundamentals to advanced topics, including OOP, ASP.NET, and database management, helping students build real-world projects.
   - Simplified technical concepts for beginners, enhancing communication skills and practical problem-solving abilities.
 - **Software Engineer Intern | Sysbeams, Nigeria**  _June 2022 - Dec 2024_  
