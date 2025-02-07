@@ -19,7 +19,7 @@ A passionate **Software Engineer** with **3 years of experience** in **.NET deve
 - **Ersilia -**  Contributed to the [Ersilia Model Hub](https://github.com/ersilia-os/ersilia), an open-source platform providing ready-to-use AI/ML models for biomedical research.
 
 ## 🛠️ Skills  
-- **Technical Skills:** C# |.NET Core | ASP.NET MVC  | Web API | RESTful API Development | Dependency Injection and SOLID Principles | SQL and Database Management(SQL Server, MySQL, PostgreSQL) | Frontend Development (HTML, CSS, JavaScript) | Version Control (Git, GitHub, GitLab, or Bitbucket)
+- **Technical Skills:** C#, .NET Core, ASP.NET MVC, Web API | SQL Server, MySQL, PostgreSQL| HTML, CSS, JavaScript | Git, GitHub, GitLab, Bitbucket
 - **Soft Skills:** Attention to Detail | Analytical Thinking | Effective Communication | Team Collaboration | Adaptability | Critical Thinking  | Problem-Solving    
 
 ## 💡  Volunteer Experience
