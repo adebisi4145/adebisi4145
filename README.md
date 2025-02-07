@@ -6,12 +6,20 @@ A passionate **Software Engineer** with **3 years of experience** in **.NET deve
 - **Software Engineer Instructor | Codelearnershub, Nigeria**  _Jan 2024 - Present_  
   - Taught C# and .NET fundamentals to advanced topics, including OOP, ASP.NET, and database management, helping students build real-world projects.
   - Simplified technical concepts for beginners, enhancing communication skills and practical problem-solving abilities.
-- **Software Engineer Intern | Sysbeams, Nigeria**  _June 2021 - Dec 2024_  
-  - Developed and maintained scalable, high-performance .NET Core applications using C#, focusing on clean code practices and optimizing functionality with technologies like ASP.NET MVC and Web API. Contributed to backend development, including database integration with MySQL, SQL, and PostgreSQL, to ensure seamless data storage and retrieval.  
-  - Collaborated within Agile teams to build applications, ensuring alignment with project standards and client requirements. Utilized GitHub for version control, managing pull requests, tracking issues, and participating in code reviews to maintain code quality and improve team collaboration.
+- **Software Engineer Intern | Sysbeams, Nigeria**  _June 2022 - Dec 2024_  
+  - Developed and optimized scalable RESTful APIs using ASP.NET Core, integrating seamlessly with frontend applications
+  - Built and optimized RESTful APIs with pagination for handling large datasets efficiently.
+  - Designed and implemented CQRS using MediatR to separate command and query logic, improving system maintainability.
+  - Implemented efficient pagination in APIs to handle large datasets efficiently.
+  - Enhanced application security by implementing OAuth, JWT authentication, and role-based access control.
+  - Built containerized applications using Docker, improving deployment consistency.
+  - Integrated third-party APIs and services, ensuring seamless data exchange.
+
+## 🚀 PROJECTS & OPEN SOURCE CONTRIBUTIONS
+- **Ersilia -**  Contributed to the [Ersilia Model Hub](https://github.com/ersilia-os/ersilia), an open-source platform providing ready-to-use AI/ML models for biomedical research.
 
 ## 🛠️ Skills  
-- **Technical Skills:** C# | ASP.NET MVC  | Entity Framework / Entity Framework Core | RESTful API Development | Dependency Injection and SOLID Principles | SQL and Database Management(SQL Server, MySQL, PostgreSQL) | Frontend Development (HTML, CSS, JavaScript) | Version Control (Git, GitHub, GitLab, or Bitbucket)
+- **Technical Skills:** C# |.NET Core | ASP.NET MVC  | Web API | RESTful API Development | Dependency Injection and SOLID Principles | SQL and Database Management(SQL Server, MySQL, PostgreSQL) | Frontend Development (HTML, CSS, JavaScript) | Version Control (Git, GitHub, GitLab, or Bitbucket)
 - **Soft Skills:** Attention to Detail | Analytical Thinking | Effective Communication | Team Collaboration | Adaptability | Critical Thinking  | Problem-Solving    
 
 ## 💡  Volunteer Experience
@@ -19,12 +27,8 @@ A passionate **Software Engineer** with **3 years of experience** in **.NET deve
 - **Software Developer Instructor | Dayspring Chapel, Nigeria**
   
 ## 🎓 Education
-- **Bachelor of Science (B. Sc.) in Mathematics | Federal University of Agriculture, Abeokuta** 
-
-## 📜 Certifications
-- **Software Engineering | CodeLearnersHub, Nigeria**
-- **Software Testing | The Bug Detective, Nigeria**
-- **National Youth Service Corps (NYSC) | Nigeria**
+- **Bachelor of Science (B. Sc.) in Mathematics | Federal University of Agriculture, Abeokuta**
+- **Software Engineering |  CodelearnersHub, Nigeria** 
 
 ## Conferences
 - **Global Leadership Summit 2024 – "Design Your Tomorrow":** Focused on performance,
@@ -35,7 +39,7 @@ resilience skills through practical leadership strategies.
 
 ## 📫 Get in Touch
 - **🌐 LinkedIn:** [Adebisi Adeyemi](https://www.linkedin.com/in/adebisi-adeyemi-1642ba211/)
-- **📧 Email:** [adeyemiadebisi018@gmail.com](mailto:adeyemiadebisi018@gmail.com)
+- **📧 Email:** [adeyemieyinjuoluwa@gmail.com](mailto:adeyemieyinjuoluwa@gmail.com)
   
 
 <!--
