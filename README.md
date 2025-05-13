@@ -3,13 +3,13 @@ A passionate **Software Engineer** with **3 years of experience** in **.NET deve
 
 
 ## 💼 Experience
-- **Junior Dotnet Developer | Teknikforce, Nigeria**  _March 2025 - Present_
+- **Junior Dotnet Developer | Teknikforce**  _March 2025 - Present_
 - **Software Engineer Instructor | Codelearnershub, Nigeria**  _Aug 2024 - Feb 2024_    
 - **Software Engineer Intern | Codelearnershub, Nigeria**   _June 2022 - Aug 2024_  
   
 ## 🚀 PROJECTS & OPEN SOURCE CONTRIBUTIONS
 - **Ersilia -**  Contributed to the [Ersilia Model Hub](https://github.com/ersilia-os/ersilia), an open-source platform providing ready-to-use AI/ML models for biomedical research.
-- **Fedora -**
+- **Fedora**
   
 ## 🛠️ Skills  
 - **Technical Skills:** C#, .NET Core, ASP.NET MVC, Web API | SQL Server, MySQL, PostgreSQL| HTML, CSS, JavaScript | Microservices, SOLID Principles, DDD, CQRS | Git, GitHub, GitLab, Bitbucket
