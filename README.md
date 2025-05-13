@@ -3,21 +3,14 @@ A passionate **Software Engineer** with **3 years of experience** in **.NET deve
 
 
 ## 💼 Experience
-- **Software Engineer Instructor | Codelearnershub, Nigeria**  _Aug 2024 - Present_  
-  - Taught C# and .NET fundamentals to advanced topics, including OOP, ASP.NET, and database management, helping students build real-world projects.
-  - Simplified technical concepts for beginners, enhancing communication skills and practical problem-solving abilities.
-- **Software Engineer Intern | Sysbeams, Nigeria**  _June 2022 - Dec 2024_  
-  - Developed and optimized scalable RESTful APIs using ASP.NET Core, integrating seamlessly with frontend applications
-  - Built and optimized RESTful APIs with pagination for handling large datasets efficiently.
-  - Designed and implemented CQRS using MediatR to separate command and query logic, improving system maintainability.
-  - Implemented efficient pagination in APIs to handle large datasets efficiently.
-  - Enhanced application security by implementing OAuth, JWT authentication, and role-based access control.
-  - Built containerized applications using Docker, improving deployment consistency.
-  - Integrated third-party APIs and services, ensuring seamless data exchange.
-
+- **Software Engineer Instructor | Codelearnershub, Nigeria**  _Aug 2024 - Feb 2024_    
+- **Software Engineer Intern | Codelearnershub, Nigeria**   _June 2022 - Aug 2024_  
+- **Junior Dotnet Developer | Teknikforce, Nigeria**  _March 2022 - Present_
+  
 ## 🚀 PROJECTS & OPEN SOURCE CONTRIBUTIONS
 - **Ersilia -**  Contributed to the [Ersilia Model Hub](https://github.com/ersilia-os/ersilia), an open-source platform providing ready-to-use AI/ML models for biomedical research.
-
+- **Fedora -**
+  
 ## 🛠️ Skills  
 - **Technical Skills:** C#, .NET Core, ASP.NET MVC, Web API | SQL Server, MySQL, PostgreSQL| HTML, CSS, JavaScript | Microservices, SOLID Principles, DDD, CQRS | Git, GitHub, GitLab, Bitbucket
 - **Soft Skills:** Attention to Detail | Analytical Thinking | Effective Communication | Team Collaboration | Adaptability | Critical Thinking  | Problem-Solving    
