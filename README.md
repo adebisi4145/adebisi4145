@@ -20,6 +20,7 @@ A passionate **Software Engineer** with **3 years of experience** in **.NET deve
 - **Software Developer Instructor | Dayspring Chapel, Nigeria**
   
 ## 🎓 Education
+- **Master of Information Technology | Miva Open University**
 - **Bachelor of Science (B. Sc.) in Mathematics | Federal University of Agriculture, Abeokuta**
 - **Software Engineering |  CodelearnersHub, Nigeria** 
 
