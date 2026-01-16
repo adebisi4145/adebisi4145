@@ -4,7 +4,7 @@ A passionate **Software Engineer** with **3 years of experience** in **.NET deve
 
 ## 💼 Experience
 - **.Net Developer | Daxora**  _June 2025 - Present_
-- **.Nnet Developer | Teknikforce**  _March 2025 - November 2025
+- **.Net Developer | Teknikforce**  _March 2025 - November 2025
 - **Software Engineer Instructor | Codelearnershub, Nigeria**  _Aug 2024 - Feb 2024_    
 - **Software Engineer Intern | Codelearnershub, Nigeria**   _June 2022 - Aug 2024_  
   
